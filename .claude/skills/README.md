@@ -1,6 +1,6 @@
 # Skills
 
-4 个核心 Skill，覆盖 Unity 项目全流程。
+5 个核心 Skill，覆盖 Unity 项目全流程。
 
 | Skill | 说明 |
 |-------|------|
@@ -8,3 +8,4 @@
 | [asset-structure](asset-structure) | 资产结构——目录规范 / AA 包 / AB 包 |
 | [code-architecture](code-architecture) | 代码结构——Service+MVC / 命名规范 / 泛型继承 / 对象池 / 代码模板 |
 | [workflow](workflow) | 工作流——Prefab 驱动 / 编辑器工具 / CI 构建 |
+| [ui-toolkit](ui-toolkit) | UI Toolkit——UXML≈HTML / USS≠CSS 差异对照 / 选择器参考 / 常见 LLM 错误 |
